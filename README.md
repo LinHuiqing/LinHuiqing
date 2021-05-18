@@ -1,4 +1,4 @@
-# Nice to meet you! <img src="https://i.imgur.com/17Juq5X.gif" alt="wave" width="50"/> :relaxed:
+# Nice to meet you! <img src="https://i.imgur.com/17Juq5X.gif" alt="wave" width="25"/> :relaxed:
 
 I'm Huiqing, an aspiring software developer and machine learning enthusiast. I'm from Singapore and currently studying in the Singapore University of Technology and Design (SUTD).
 
