@@ -2,7 +2,7 @@
 
 I'm Huiqing, an aspiring software developer and machine learning enthusiast. I'm from Singapore and currently studying in the Singapore University of Technology and Design (SUTD).
 
-Connect with me on [![LinkedIn](https://i.imgur.com/tgcVcyA.png)](https://sg.linkedin.com/in/linhuiqing) or check out my website at [https://www.linhuiqing.co/](https://www.linhuiqing.co/)!
+Connect with me on [![LinkedIn](https://i.imgur.com/tgcVcyA.png)](https://sg.linkedin.com/in/linhuiqing) or check out my website at [https://linhuiqing.co/](https://linhuiqing.co/)!
 
 ## 🔧 Technologies & Tools
 
